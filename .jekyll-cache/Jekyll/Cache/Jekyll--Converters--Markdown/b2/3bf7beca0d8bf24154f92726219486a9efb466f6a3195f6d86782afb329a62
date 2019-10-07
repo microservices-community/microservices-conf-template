@@ -1,0 +1,1471 @@
+I"ª²
+<style>
+  td { padding: 8px; 
+    border-top: 1px solid #ddd; 
+    border-bottom: 1px solid #ddd;
+  }
+  .left-td {  border-right: 4px solid #ddd; }
+  .right-td {  border-left: 4px solid #ddd; }
+  .presentation { margin-top: 1em; }
+  .btn:focus { outline: 0 !important; }
+</style>
+
+<div style="margin-top:30px;background-color:#aeb4ff;border-radius: 5px 5px 0px 0px;padding-left: 5px;padding-bottom: 20px;padding-top: 1px;"><h1>February 19th (Theme: Microservice Design)</h1></div>
+<table class="col-xs-12">
+  <tbody>
+      
+      <tr>
+        <td class="left-td col-xs-1">
+          <strong>8:00</strong><br />
+          <strong class="text-muted"></strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Registration desk open</span>
+          
+          
+          
+          
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue"><a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a></a></strong>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="left-td col-xs-1">
+          <strong>9:15</strong><br />
+          <strong class="text-muted">10:00</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Welcome and Opening Speech</span>
+          
+          <br />
+          
+             
+              Speakers: <strong>Sabine Sachweh, Fabrizio Montesi</strong>
+                  
+          
+          
+          
+          
+            <br />
+            <span class="text-muted">Opening speech to welcome all the attendees and
+introduce the organisation and the environment around the conference.
+</span>
+            <br />
+          
+          
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a></strong>
+        </td>
+      </tr>
+      
+      <tr style="background-color:#ececec">
+        <td class="left-td col-xs-1">
+          <strong>10:00</strong><br />
+          <strong class="text-muted">10:20</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Coffee Break</span>
+          
+          
+          
+          
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a></strong>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="left-td col-xs-1">
+          <strong>10:30</strong><br />
+          <strong class="text-muted">12:10</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Foundations of Design</span>
+          
+          
+          
+          
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+          
+          
+            <br />
+            
+                Chair: <strong>LuÃ­s Cruz-Filipe</strong>
+            
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a></strong>
+        </td>
+      </tr>
+      
+      <tr style="background-color:#ececec">
+        <td class="left-td col-xs-1">
+          <strong>12:10</strong><br />
+          <strong class="text-muted">13:10</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Lunch</span>
+          
+          
+          
+          
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a></strong>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="left-td col-xs-1">
+          <strong>13:20</strong><br />
+          <strong class="text-muted">14:20</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Domain-Specific Service Decomposition with Microservices API Patterns</span>
+          
+          <br />
+          
+             
+              Speaker: <strong>Olaf Zimmermann</strong>
+                  
+          
+          
+          
+            <br />
+            <a target="_blank" style="color:white" href="/2019/slides//keynotes/Zimmerman.pdf"><label class="btn btn-xs btn-success">
+            <span class="glyphicon glyphicon-circle-arrow-down"></span> Slides</label></a> 
+            <br />
+          
+          
+            <br />
+            <span class="text-muted"><a href="https://conf-micro.services/2019/keynotes/#domain-specific-service-decomposition-with-microservices-api-patterns">
+Abstract of the keynote</a>
+|
+<a href="https://microservice-api-patterns.org/">
+Microservice API Patterns Website</a>
+</span>
+            <br />
+          
+          
+          
+            <br />
+            
+                Chair: <strong>Saverio Giallorenzo</strong>
+            
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a></strong>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="left-td col-xs-1">
+          <strong>14:20</strong><br />
+          <strong class="text-muted">15:10</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Design Support</span>
+          
+          
+          
+          
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+          
+          
+            <br />
+            
+                Chair: <strong>Olaf Zimmermann</strong>
+            
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a></strong>
+        </td>
+      </tr>
+      
+      <tr style="background-color:#ececec">
+        <td class="left-td col-xs-1">
+          <strong>15:10</strong><br />
+          <strong class="text-muted">15:30</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Coffee Break</span>
+          
+          
+          
+          
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a></strong>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="left-td col-xs-1">
+          <strong>15:30</strong><br />
+          <strong class="text-muted">16:20</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Design Experiences</span>
+          
+          
+          
+          
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+          
+          
+            <br />
+            
+                Chair: <strong>Claudio Guidi</strong>
+            
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a></strong>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="left-td col-xs-1">
+          <strong>16:20</strong><br />
+          <strong class="text-muted">17:00</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Short talks</span>
+          
+          
+          
+          
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+          
+          
+            <br />
+            
+                Chair: <strong>Nhiem Lu</strong>
+            
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a></strong>
+        </td>
+      </tr>
+      
+  </tbody>
+</table>
+<div stlye="margin-bottom:50px;" class="clearfix"></div>
+
+<div style="margin-top:30px;background-color:#aee9ff;border-radius: 5px 5px 0px 0px;padding-left: 5px;padding-bottom: 20px;padding-top: 1px;"><h1>February 20th (Theme: Microservice Development)</h1></div>
+<table class="col-xs-12">
+  <tbody>
+      
+      <tr>
+        <td class="left-td col-xs-1">
+          <strong>8:00</strong><br />
+          <strong class="text-muted"></strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Registration desk open</span>
+          
+          
+          
+          
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a></strong>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="left-td col-xs-1">
+          <strong>9:00</strong><br />
+          <strong class="text-muted">10:00</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Understandable Microservices</span>
+          
+          <br />
+          
+             
+              Speaker: <strong>Fabrizio Montesi</strong>
+                  
+          
+          
+          
+            <br />
+            <a target="_blank" style="color:white" href="/2019/slides//keynotes/Montesi.pdf"><label class="btn btn-xs btn-success">
+            <span class="glyphicon glyphicon-circle-arrow-down"></span> Slides</label></a> 
+            <br />
+          
+          
+            <br />
+            <span class="text-muted"><a href="https://conf-micro.services/2019/keynotes/#understandable-microservices">
+Abstract of the keynote</a>
+</span>
+            <br />
+          
+          
+          
+            <br />
+            
+                Chair: <strong>Sabine Sachweh</strong>
+            
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a></strong>
+        </td>
+      </tr>
+      
+      <tr style="background-color:#ececec">
+        <td class="left-td col-xs-1">
+          <strong>10:00</strong><br />
+          <strong class="text-muted">10:20</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Coffee Break</span>
+          
+          
+          
+          
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a></strong>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="left-td col-xs-1">
+          <strong>10:30</strong><br />
+          <strong class="text-muted">12:10</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Foundations of Development</span>
+          
+          
+          
+          
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+          
+          
+            <br />
+            
+                Chair: <strong>Fabrizio Montesi</strong>
+            
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a></strong>
+        </td>
+      </tr>
+      
+      <tr style="background-color:#ececec">
+        <td class="left-td col-xs-1">
+          <strong>12:10</strong><br />
+          <strong class="text-muted">12:50</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Lunch</span>
+          
+          
+          
+          
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a></strong>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="left-td col-xs-1">
+          <strong>13:00</strong><br />
+          <strong class="text-muted">14:00</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Engineering Reliability</span>
+          
+          <br />
+          
+             
+              Speaker: <strong>RamÃ³n Medrano Llamas</strong>
+                  
+          
+          
+          
+            <br />
+            <a target="_blank" style="color:white" href="/2019/slides/keynotes/Llamas.pdf"><label class="btn btn-xs btn-success">
+            <span class="glyphicon glyphicon-circle-arrow-down"></span> Slides</label></a> 
+            <br />
+          
+          
+            <br />
+            <span class="text-muted"><a href="https://conf-micro.services/2019/keynotes/#engineering-reliability">
+Abstract of the keynote</a>
+</span>
+            <br />
+          
+          
+          
+            <br />
+            
+                Chair: <strong>Marco Peressotti</strong>
+            
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a></strong>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="left-td col-xs-1">
+          <strong>14:00</strong><br />
+          <strong class="text-muted">14:20</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Mayor's Address</span>
+          
+          <br />
+          
+             
+              Mayor of Dortmund: <strong>Ullrich Sierau</strong>
+                  
+          
+          
+          
+          
+            <br />
+            <span class="text-muted">Address of the mayor of Dortmund to the Microservices Community on current and future
+projects to lead the process of Digital Transformation in the Ruhr area
+</span>
+            <br />
+          
+          
+          
+            <br />
+            
+                Chairs: <strong>Fabrizio Montesi, Sabine Sachweh</strong>
+            
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a></strong>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="left-td col-xs-1">
+          <strong>14:20</strong><br />
+          <strong class="text-muted">15:10</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Applications 1</span>
+          
+          
+          
+          
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+          
+          
+            <br />
+            
+                Chair: <strong>Balint Maschio</strong>
+            
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a></strong>
+        </td>
+      </tr>
+      
+      <tr style="background-color:#ececec">
+        <td class="left-td col-xs-1">
+          <strong>15:10</strong><br />
+          <strong class="text-muted">15:30</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Coffee Break</span>
+          
+          
+          
+          
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a></strong>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="left-td col-xs-1">
+          <strong>15:30</strong><br />
+          <strong class="text-muted">16:20</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Applications 2</span>
+          
+          
+          
+          
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+          
+          
+            <br />
+            
+                Chair: <strong>Jonas Sorgalla</strong>
+            
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a></strong>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="left-td col-xs-1">
+          <strong>16:20</strong><br />
+          <strong class="text-muted">17:00</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Short talks</span>
+          
+          
+          
+          
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+          
+          
+            <br />
+            
+                Chair: <strong>Philipp Heisig</strong>
+            
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a></strong>
+        </td>
+      </tr>
+      
+  </tbody>
+</table>
+<div stlye="margin-bottom:50px;" class="clearfix"></div>
+
+<div style="margin-top:30px;background-color:#aeffbf;border-radius: 5px 5px 0px 0px;padding-left: 5px;padding-bottom: 20px;padding-top: 1px;"><h1>February 21st (Theme: Microservice Deployment &amp; Experiences)</h1></div>
+<table class="col-xs-12">
+  <tbody>
+      
+      <tr>
+        <td class="left-td col-xs-1">
+          <strong>8:00</strong><br />
+          <strong class="text-muted"></strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Registration desk open</span>
+          
+          
+          
+          
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a></strong>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="left-td col-xs-1">
+          <strong>9:00</strong><br />
+          <strong class="text-muted">10:00</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Factory of Things - Using Microservices for Data Processing and IoT</span>
+          
+          <br />
+          
+             
+              Speaker: <strong>JÃ¶rn Esdohr</strong>
+                  
+          
+          
+          
+          
+            <br />
+            <span class="text-muted"><a href="https://conf-micro.services/2019/keynotes/#factory-of-things-using-microservices-for-data-processing-and-iot">
+Abstract of the keynote</a>
+</span>
+            <br />
+          
+          
+          
+            <br />
+            
+                Chair: <strong>Florian Rademacher</strong>
+            
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a></strong>
+        </td>
+      </tr>
+      
+      <tr style="background-color:#ececec">
+        <td class="left-td col-xs-1">
+          <strong>10:00</strong><br />
+          <strong class="text-muted">10:20</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Coffee Break</span>
+          
+          
+          
+          
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a></strong>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="left-td col-xs-1">
+          <strong>10:30</strong><br />
+          <strong class="text-muted">12:10</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Deployment Automation</span>
+          
+          
+          
+          
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+          
+          
+            <br />
+            
+                Chairs: <strong>Marcel Hahn, Sebastian Copei</strong>
+            
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a></strong>
+        </td>
+      </tr>
+      
+      <tr style="background-color:#ececec">
+        <td class="left-td col-xs-1">
+          <strong>12:10</strong><br />
+          <strong class="text-muted">13:10</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Lunch</span>
+          
+          
+          
+          
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a></strong>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="left-td col-xs-1">
+          <strong>13:20</strong><br />
+          <strong class="text-muted">14:20</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Build Fashionable Container Systems with Microservices, Clouds, and Kubernetes</span>
+          
+          <br />
+          
+             
+              Speaker: <strong>Peter Rossbach</strong>
+                  
+          
+          
+          
+          
+            <br />
+            <span class="text-muted"><a href="https://conf-micro.services/2019/keynotes/#build-fashionable-container-systems-with-microservices-clouds-and-kubernetes">
+Abstract of the keynote</a>
+</span>
+            <br />
+          
+          
+          
+            <br />
+            
+                Chair: <strong>Florian Rademacher</strong>
+            
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a></strong>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="left-td col-xs-1">
+          <strong>14:20</strong><br />
+          <strong class="text-muted">15:10</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Experiences 1</span>
+          
+          
+          
+          
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+          
+          
+            <br />
+            
+                Chair: <strong>Larisa Safina</strong>
+            
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a></strong>
+        </td>
+      </tr>
+      
+      <tr style="background-color:#ececec">
+        <td class="left-td col-xs-1">
+          <strong>15:10</strong><br />
+          <strong class="text-muted">15:30</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Coffee Break</span>
+          
+          
+          
+          
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a></strong>
+        </td>
+      </tr>
+      
+      <tr>
+        <td class="left-td col-xs-1">
+          <strong>15:30</strong><br />
+          <strong class="text-muted">17:00</strong>
+        </td>
+        <td class="right-td">
+          <span class="text-primary lead">Experiences 2</span>
+          
+          
+          
+          
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+              
+              
+              <div class="presentation">
+              <strong></strong>
+              <br />
+              <strong class="text-muted">
+                
+                Authors:
+                
+                
+              </strong>
+              
+              <br />
+              <a target="_blank" style="color:white" href="">
+                <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
+              </label></a>
+              <label class="abstract_btn btn btn-xs btn-info">
+                Abstract</label>
+              
+              <div style="display:none;" class="abstract">
+              <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning"></div>
+              </div>
+              
+              </div>
+            
+          
+          
+            <br />
+            
+                Chair: <strong>Stefano Pio Zingaro</strong>
+            
+          
+          <br />
+          Location: <strong>Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a></strong>
+        </td>
+      </tr>
+      
+  </tbody>
+</table>
+<div stlye="margin-bottom:50px;" class="clearfix"></div>
+
+<script>
+  $( document ).ready( function() {
+    $( ".abstract_btn" ).click( function(event) {
+      $( event.target ).siblings( ".abstract" ).slideToggle('fast');
+    });
+  });
+</script>
+
+:ET

@@ -1,0 +1,73 @@
+I"r<p>The <strong>International Conference on Microservices</strong> is a forum for the discussion of all aspects of microservices: their design, programming, and operations.</p>
+
+<p>The conference’s overarching aim is to bring together industry and academia, to foster discussion on practice and research of microservices.</p>
+
+<p>The conference series started with <a href="https://www.conf-micro.services/2017/index.html">Microservices 2017</a> which successfully brought together many international practitioners and researches interested in the software paradigm of microservices. During Microservices 2017 the <a href="https://microservices.community">Microservices Community</a> was founded with the aims of sharing of knowledge, fostering of collaborations, and organising events around microservices.
+In this edition, Microservices will be co-located and intertwined with the first international edition of the <strong>Meeting on Microservices</strong> (the <a href="http://www.italianasoftware.com/mom2016_eng.html">first national edition</a> took place in Bologna, Italy), an event specifically oriented towards companies where invited speakers from industry report success stories, best practices, current challenges, and attendees participate to discussion panels on the adoption and evolution of microservices in production.</p>
+
+<h3 id="keynote-speakers">Keynote Speakers</h3>
+
+<div>
+
+  <div class="panel panel-primary" style="display:inline-block; padding:10px; margin:10px; width: 30%">
+    
+    <img class="card-img" style="max-height:120px;max-width:120px;" src="/2020/assets/images/speakers/default.png" />
+    
+    <div class="card-body">    
+      
+      <h4 class="card-title"><a href="/2020/keynotes/#keynote-title">Keynote Title</a></h4>
+      <p class="card-text"> Professor Professorson <br />
+      Affiliation </p>
+      <a class="card-link" href="/2020/keynotes/#keynote-title">Details</a>
+    </div>
+  </div>
+
+  <div class="panel panel-primary" style="display:inline-block; padding:10px; margin:10px; width: 30%">
+    
+    <img class="card-img" style="max-height:120px;max-width:120px;" src="/2020/assets/images/speakers/default.png" />
+    
+    <div class="card-body">    
+      
+      <h4 class="card-title"><a href="/2020/keynotes/#keynote-title">Keynote Title</a></h4>
+      <p class="card-text"> Professor Professorson <br />
+      Affiliation </p>
+      <a class="card-link" href="/2020/keynotes/#keynote-title">Details</a>
+    </div>
+  </div>
+
+  <div class="panel panel-primary" style="display:inline-block; padding:10px; margin:10px; width: 30%">
+    
+    <img class="card-img" style="max-height:120px;max-width:120px;" src="/2020/assets/images/speakers/default.png" />
+    
+    <div class="card-body">    
+      
+      <h4 class="card-title"><a href="/2020/keynotes/#keynote-title">Keynote Title</a></h4>
+      <p class="card-text"> Professor Professorson <br />
+      Affiliation </p>
+      <a class="card-link" href="/2020/keynotes/#keynote-title">Details</a>
+    </div>
+  </div>
+
+  <div class="panel panel-primary" style="display:inline-block; padding:10px; margin:10px; width: 30%">
+    
+    <img class="card-img" style="max-height:120px;max-width:120px;" src="/2020/assets/images/speakers/default.png" />
+    
+    <div class="card-body">    
+      
+      <h4 class="card-title"><a href="/2020/keynotes/#keynote-title">Keynote Title</a></h4>
+      <p class="card-text"> Professor Professorson <br />
+      Affiliation </p>
+      <a class="card-link" href="/2020/keynotes/#keynote-title">Details</a>
+    </div>
+  </div>
+
+</div>
+
+<div>
+  <h3 id="conference-theme">CONFERENCE THEME</h3>
+
+  <p>CONFERENCE THEME</p>
+
+  <p>Microservices welcomes both theoretical and experimental submissions on topics ranging from formal frameworks to industrial experience reports and demonstrations. Presentations will be selected based on abstract submissions of maximum two pages. See the call for papers for details.</p>
+</div>
+:ET
