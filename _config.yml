@@ -1,11 +1,11 @@
 # Event parameters ------------------------------------------------------------
 edition: 2020
 title: Microservices 2020
-baseurl: /2020
+baseurl: /20XX
 header:
-  city: "Bologna"
-  dates: "19-21 Feb. 2020"
-email: microservices2020@microservices.community # contact email
+  city: "City"
+  dates: "XX-YY Month 20XX"
+email: microservices20XX@microservices.community # contact email
 description: "Academia meets Industry"
 timezone: Europe/Rome
 # twitter_feed: c_microservices 
@@ -20,12 +20,10 @@ navigation_header:
   Attending:        /attending/
   Keynotes:         /keynotes/
   Program:          /program/
-# Photos:           /photos/
-# Satellite Events: /satellite/
-# Social Events:    /social_event/
   Committees:       /committees/
   Registration:     /registration/
-  Contact:          /contact/  
+  Contact:          /contact/
+  Coc:              https://www.microservices.community/events/coc/
 
 # Exclude from build -----------------------------------------------------------
 exclude:

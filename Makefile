@@ -1,5 +1,5 @@
 SHELL := /bin/bash
-BUNDLE := bundle
+BUNDLE := bundle config set --local path 'vendor/bundle' && bundle
 JEKYLL := $(BUNDLE) exec jekyll
 
 .PHONY: all install update clean build serve

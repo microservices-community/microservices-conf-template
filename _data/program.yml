@@ -1,29 +1,29 @@
 ---
-- day: February 19th
+- day: Month XXth
   color: "#aeb4ff"
-  theme: Microservice Design
+  theme: First Theme
   events:
     - title: Registration desk open
       from: "8:00"
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue"><a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a></a>
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue"><a href="/../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a></a>
     - title: Welcome and Opening Speech
       from: "9:15"
       to: "10:00"
       authors:
-        - name: Sabine Sachweh, Fabrizio Montesi
+        - name: Host Name
           title: Speakers
       description: |
         Opening speech to welcome all the attendees and
         introduce the organisation and the environment around the conference.
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
     - title: Coffee Break
       from: "10:00"
       to: "10:20"
       non-session: true
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a>
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
     - title: Foundations of Design
       chairs:
-        - Luís Cruz-Filipe
+        - Chair Name
       from: "10:30"
       to: "12:10"
       papers:
@@ -31,89 +31,86 @@
         - 12
         - 20
         - 11
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
     - title: Lunch
       from: "12:10"
       to: "13:10"
       non-session: true
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a>
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
     - from: "13:20"
       to: "14:20"
       chairs:
-        - Saverio Giallorenzo
+        - Chair Name
       authors:
-        - name: Olaf Zimmermann
+        - name: Speaker Name
           title: Speaker
-      title: Domain-Specific Service Decomposition with Microservices API Patterns
+      title: Title
       description: |
-        <a href="https://conf-micro.services/2019/keynotes/#domain-specific-service-decomposition-with-microservices-api-patterns">
+        <a href="https://conf-micro.services../keynotes/#title">
         Abstract of the keynote</a>
-        |
-        <a href="https://microservice-api-patterns.org/">
-        Microservice API Patterns Website</a>
-      slides: /keynotes/Zimmerman.pdf
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
-    - title: Design Support
+      slides: /keynotes/Speaker.pdf
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - title: Topic Name
       chairs:
-        - Olaf Zimmermann
+        - Chair Name
       from: "14:20"
       to: "15:10"
       papers:
         - 24
         - 16
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
     - title: Coffee Break
       from: "15:10"
       to: "15:30"
       non-session: true
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a>
-    - title: Design Experiences
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - title: Topic Name
       chairs:
-        - Claudio Guidi
+        - Chair Name
       from: "15:30"
       to: "16:20"
       papers:
         - 17
         - 18
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
     - title: Short talks
       chairs:
-        - Nhiem Lu
+        - Chair Name
       from: "16:20"
       to: "17:00"
       papers:
         - 23
         - 9
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>    
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>    
 
-- day: February 20th
+- day: Month 20th
   color: "#aee9ff"
-  theme: Microservice Development
+  theme: Theme Name
   events:
     - title: Registration desk open
       from: "8:00"
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a>
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
     - from: "9:00"
       to: "10:00"
       authors:
-        - name: Fabrizio Montesi
+        - name: Speaker Name
           title: Speaker
-      title: Understandable Microservices
+      title: Keynote Title
       chairs:
-        - Sabine Sachweh
+        - Chair Name
       description: |
-        <a href="https://conf-micro.services/2019/keynotes/#understandable-microservices">
+        <a href="https://conf-micro.services../keynotes/#title">
         Abstract of the keynote</a>
-      slides: /keynotes/Montesi.pdf
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
+      slides: /keynotes/Speaker.pdf
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
     - title: Coffee Break
       from: "10:00"
       to: "10:20"
       non-session: true
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a>
-    - title: Foundations of Development
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - title: Topic Name
       chairs:
-        - Fabrizio Montesi
+        - Chair Name
       from: "10:30"
       to: "12:10"
       papers:
@@ -121,146 +118,66 @@
         - 26
         - 5
         - 13
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
     - title: Lunch
       from: "12:10"
       to: "12:50"
       non-session: true
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a>
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
     - from: "13:00"
       to: "14:00"
       authors:
-        - name: Ramón Medrano Llamas
+        - name: Keynote Speaker Name
           title: Speaker
-      title: Engineering Reliability
+      title: Keynote Title
       chairs:
-        - Marco Peressotti
+        - Chair Name
       description: |
-        <a href="https://conf-micro.services/2019/keynotes/#engineering-reliability">
+        <a href="https://conf-micro.services../keynotes/#title">
         Abstract of the keynote</a>
-      slides: keynotes/Llamas.pdf
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
+      slides: keynotes/Speaker.pdf
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
     - from: "14:00"
       to: "14:20"
       authors:
-        - name: Ullrich Sierau
-          title: Mayor of Dortmund
-      title: Mayor's Address
+        - name: Speaker Name
+          title: Speaker title
+      title: Title
       description: |
-        Address of the mayor of Dortmund to the Microservices Community on current and future
-        projects to lead the process of Digital Transformation in the Ruhr area
+        Description
       chairs:
-        - Fabrizio Montesi
-        - Sabine Sachweh
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
-    - title: Applications 1
+        - Chair Name
+        - Chair Name
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - title: Topic Name
       chairs:
-        - Balint Maschio
+        - Chair Name
       from: "14:20"
       to: "15:10"
       papers:
         - 8
         - 22
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
     - title: Coffee Break
       from: "15:10"
       to: "15:30"
       non-session: true
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a>
-    - title: Applications 2
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - title: Topic Name
       chairs:
-        - Jonas Sorgalla
+        - Chair Name
       from: "15:30"
       to: "16:20"
       papers:
         - 3
         - 31
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
-    - title: Short talks
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>
+    - title: Topic name
       chairs:
-        - Philipp Heisig
+        - Chair Name
       from: "16:20"
       to: "17:00"
       papers:
         - 15
         - 10
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>    
-
-- day: February 21st
-  theme: Microservice Deployment & Experiences
-  color: "#aeffbf"
-  events:
-    - title: Registration desk open
-      from: "8:00"
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a>
-    - from: "9:00"
-      to: "10:00"
-      authors:
-        - name: Jörn Esdohr
-          title: Speaker
-      title: Factory of Things - Using Microservices for Data Processing and IoT
-      chairs:
-        - Florian Rademacher
-      description: |
-        <a href="https://conf-micro.services/2019/keynotes/#factory-of-things-using-microservices-for-data-processing-and-iot">
-        Abstract of the keynote</a>
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
-    - title: Coffee Break
-      from: "10:00"
-      to: "10:20"
-      non-session: true
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a>
-    - title: Deployment Automation
-      chairs:
-        - Marcel Hahn
-        - Sebastian Copei
-      from: "10:30"
-      to: "12:10"
-      papers:
-        - 32
-        - 7
-        - 14
-        - 6
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
-    - title: Lunch
-      from: "12:10"
-      to: "13:10"
-      non-session: true
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a>
-    - from: "13:20"
-      to: "14:20"
-      authors:
-        - name: Peter Rossbach
-          title: Speaker
-      title: Build Fashionable Container Systems with Microservices, Clouds, and Kubernetes
-      chairs:
-        - Florian Rademacher
-      description: |
-        <a href="https://conf-micro.services/2019/keynotes/#build-fashionable-container-systems-with-microservices-clouds-and-kubernetes">
-        Abstract of the keynote</a>
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
-    - title: Experiences 1
-      chairs:
-        - Larisa Safina
-      from: "14:20"
-      to: "15:10"
-      papers:
-        - 30
-        - 25
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
-    - title: Coffee Break
-      from: "15:10"
-      to: "15:30"
-      non-session: true
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a>
-    - title: Experiences 2
-      chairs:
-        - Stefano Pio Zingaro
-      from: "15:30"
-      to: "17:00"
-      papers:
-# Did not register
-#        - 2
-        - 28
-        - 19
-      location: Room <a href="/2019/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
+      location: Room <a href="../attending/#map-to-reach-the-conference-room-inside-the-venue">Room Name</a>    
